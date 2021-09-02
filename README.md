@@ -24,5 +24,5 @@ The resulting image also contains two crops from the images that were enlargened
   <img height=75 src="preview/lr_img.jpg">
 </p>
 <p align="center">
-  <img height=380 src="preview/detailed_view.jpg">
+  <img height=340 src="preview/detailed_view.jpg">
 </p>
